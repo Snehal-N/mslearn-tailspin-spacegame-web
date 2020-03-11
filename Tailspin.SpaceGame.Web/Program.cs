@@ -9,7 +9,7 @@ namespace TailSpin.SpaceGame.Web
         {
             
             CreateWebHostBuilder(args).Build().Run();
-           // hello hi how are u
+           // hello how are u
         }
 
         public static IWebHostBuilder CreateWebHostBuilder(string[] args) =>
